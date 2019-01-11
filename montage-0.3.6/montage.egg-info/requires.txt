@@ -1,0 +1,2 @@
+decoupage >= 0.8
+cropresize

@@ -1,0 +1,11 @@
+README.txt
+setup.py
+montage/__init__.py
+montage/formatters.py
+montage.egg-info/PKG-INFO
+montage.egg-info/SOURCES.txt
+montage.egg-info/dependency_links.txt
+montage.egg-info/entry_points.txt
+montage.egg-info/not-zip-safe
+montage.egg-info/requires.txt
+montage.egg-info/top_level.txt
